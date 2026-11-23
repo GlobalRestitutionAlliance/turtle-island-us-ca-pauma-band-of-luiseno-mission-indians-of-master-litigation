@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+PAUMA+BAND+OF+LUISENO+MISSION+INDIANS+OF",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+PAUMA+BAND+OF+LUISENO+MISSION+INDIANS+OF",
+  "title": "Federal Register - CA PAUMA BAND OF LUISENO MISSION INDIANS OF",
+  "fetched_at": "2026-11-23T17:59:22.350311Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 236157,
+  "sha256": "7375e1bc51538b3b9667978cf94cc0cf654a0d559638ff8d7dfca6fb2f4841e6",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
